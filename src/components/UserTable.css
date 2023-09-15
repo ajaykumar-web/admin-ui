@@ -1,0 +1,15 @@
+.MuiTableHead-root {
+    background-color: #f77f7f;
+}
+
+.MuiTableHead-root .MuiTableCell-root {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.MuiTableBody-root .MuiTableCell-root  {
+    font-size: 16px;
+    text-transform: capitalize;
+}
